@@ -3,7 +3,8 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('GRACIAS POR ACEPTAR SER MI SAN VALENTIN TQM').split('')
+    const titles = ('¡GRACIAS DE TODO CORAZÓN DANNITA POR ACEPTAR SER MI SAN VALENTÍN! ME HACE MUY FELIZ COMPARTIR ESTE DÍA TAN ESPECIAL CONTIGO. TE QUIERO MUCHÍSIMO.
+').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
